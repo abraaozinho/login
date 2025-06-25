@@ -5,10 +5,10 @@ body{
 div{
     background-color: rgb(0, 0, 139);
     position: absolute;
-    top:80%;
-    left: 80%;
+    top:50%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    padding: 90x;
+    padding: 120x;
     border-radius: 00px;
     color: white;
 }
